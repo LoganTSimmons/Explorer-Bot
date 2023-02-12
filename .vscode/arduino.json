@@ -1,3 +1,4 @@
 {
-    "sketch": "explorerBotVer1.ino"
+    "sketch": "explorerBotVer1.ino",
+    "board": "arduino:avr:uno"
 }
